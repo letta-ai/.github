@@ -6,6 +6,6 @@
 
 * Download the Letta open source framework on [GitHub](https://github.com/letta-ai/letta)
 * Read the Letta CLI, Python SDK, and REST API docs at [docs.letta.com](https://docs.letta.com)
-* Join our team and other Letta user/developers on the [Letta Discord](https://discord.gg/letta)
+* Join our team and other Letta user/developers on our [Discord server](https://discord.gg/letta)
 
 Letta is made with ❤️ by our team in San Francisco ([join us!](https://letta.com#careers)) and over 100 individual contributors from around the world.

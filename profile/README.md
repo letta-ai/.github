@@ -1,12 +1,10 @@
 ## Hello World 👾
 
-<!--
+[Letta](https://letta.com) adds state to your LLMs to give them advanced reasoning capabilities and transparent long-term memory. You can use Letta to create powerful LLM agents that can reason about their past interactions, learn from them, and improve their behavior over time.
 
-**Here are some ideas to get you started:**
+![Letta Logo](../assets/hero_light.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* The Letta open source framework is available at [github.com/letta-ai/letta](https://github.com/letta-ai/letta)
+* Chat with our team and other Letta user/developers on [Discord](https://discord.gg/letta)
+
+Letta is made with ❤️ by our team in San Francisco ([join us!](https://letta.com#careers)) and over 100 individual contributors from around the world.

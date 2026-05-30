@@ -2,9 +2,9 @@
 
 ![Letta Logo](../assets/hero_light.png)
 
-Letta is the platform for building deeply personalized, stateful AI agents that remember you and learn over time.
+Letta is an AI lab building machines that learn: persistent agents with the ability to continuously learn and adapt from their own experience.
 
-Try [Letta Code](https://github.com/letta-ai/letta-code) to deploy a stateful agent on your own computer:
+Try [Letta Code](https://github.com/letta-ai/letta-code), the memory-first agent:
 ```bash
 npm install -g @letta-ai/letta-code
 
@@ -18,4 +18,4 @@ Useful links:
 * Follow our [X/Twitter](https://x.com/Letta_AI/) for product updates
 * Join our [Discord server](https://discord.gg/letta)
 
-Letta is made with 💜 by our team in San Francisco ([join us!](https://jobs.ashbyhq.com/letta)) and over 100 individual contributors from around the world.
+Made with 💜 by our team in San Francisco ([join us!](https://jobs.ashbyhq.com/letta)) and over 100 individual contributors from around the world.
